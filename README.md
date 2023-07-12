@@ -34,6 +34,18 @@ Follow the steps below to run the application:
 - Displays the predicted emotion with the corresponding emoji.
 - Provides a bar chart visualization for prediction probabilities of each emotion.
 
+## References:
+
+1 Dataset: https://huggingface.co/datasets/dair-ai/emotion
+2 https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
+3 ChatGpt OpenAi
+3 Streamlit, "Streamlit: The Fastest Way to Build and Share Data Apps," 2023. [Online]. Available: https://streamlit.io/.
+4 TensorFlow, "TensorFlow: An open-source platform for machine learning," 2023. [Online]. Available: https://www.tensorflow.org/.
+5 OpenCV, "OpenCV: Open Source Computer Vision Library," 2023. [Online]. Available: https://opencv.org/.
+6 Pillow, "Pillow: The friendly PIL fork," 2023. [Online]. Available: https://python-pillow.org/.
+7 NumPy, "NumPy: The fundamental package for scientific computing with Python," 2023. [Online]. Available: https://numpy.org/.
+8 Matplotlib, "Matplotlib: Visualization with Python," 2023. [Online]. Available: https://matplotlib.org/
+
 
 ## License
 
