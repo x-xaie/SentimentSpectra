@@ -1,60 +1,52 @@
-# SentimentSpectra
+# VisualVortex
 
-SentimentSpectra is a simple yet powerful tool to detect and visualize the emotional tone of any given text. Using machine learning techniques, SentimentSpectra can analyze text and predict the underlying sentiment.
+VisualVortex is an image classification app that leverages the power of the MobileNet V2 model to accurately classify and categorize images. With VisualVortex, users can easily upload and analyze images, gaining insights and information about the visual content.
 
 ## Project Overview
 
-This project uses a machine learning model trained on the emotion dataset to classify text into different emotional categories. The user enters the text in a form, the model makes the prediction, and presents the results on a user-friendly interface powered by Streamlit.
+The project utilizes the MobileNet V2 deep learning model, which has been trained on a large dataset of images, to classify and recognize objects within images. The user can upload an image through the app, and VisualVortex will process the image using the trained model to identify the objects present. The results are then displayed to the user, providing a valuable tool for image analysis and understanding.
 
 ## Installation & Usage
 
 ### Prerequisites
-The application requires the following libraries:
-- Python
-- Streamlit
-- Pandas
-- Numpy
-- Altair
-- Joblib
+To run VisualVortex, ensure you have the following dependencies installed:
+- Python 3
+- TensorFlow
+- OpenCV
+- NumPy
 
 ### Installation
 
-Follow the steps below to run the application:
+Follow the steps below to set up and run VisualVortex:
 
-1. Clone the repository
-2. Navigate to the cloned project
-3. Install the necessary packages
-4. Run the Streamlit app
-
+1. Clone the repository to your local machine.
+2. Install the required packages.
+3. Run the app.py file using Python.
+4. Access the VisualVortex application through your web browser at http://localhost:5000.
 
 ## Features
 
-- User-friendly interface to input text.
-- Uses machine learning to analyze the emotional tone of the input text.
-- Displays the predicted emotion with the corresponding emoji.
-- Provides a bar chart visualization for prediction probabilities of each emotion.
+- User-friendly interface for uploading and analyzing images.
+- Utilizes the MobileNet V2 model for accurate image classification.
+- Real-time processing and analysis of uploaded images.
+- Displays the top predictions and probabilities for the identified objects.
+- Supports a wide range of image formats and sizes.
 
 ## References:
 
-1. Dataset: https://huggingface.co/datasets/dair-ai/emotion
-2. https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
-3. ChatGpt OpenAi
-4. Streamlit, "Streamlit: The Fastest Way to Build and Share Data Apps," 2023. [Online]. Available: https://streamlit.io/.
-5. TensorFlow, "TensorFlow: An open-source platform for machine learning," 2023. [Online]. Available: https://www.tensorflow.org/.
-6. OpenCV, "OpenCV: Open Source Computer Vision Library," 2023. [Online]. Available: https://opencv.org/.
-7. Pillow, "Pillow: The friendly PIL fork," 2023. [Online]. Available: https://python-pillow.org/.
-8. NumPy, "NumPy: The fundamental package for scientific computing with Python," 2023. [Online]. Available: https://numpy.org/.
-9. Matplotlib, "Matplotlib: Visualization with Python," 2023. [Online]. Available: https://matplotlib.org/
-10. Bird, Steven, Ewan Klein, and Edward Loper. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit. "O'Reilly Media, Inc.", 2009.
-11. Pedregosa, F., et al. "Scikit-learn: Machine Learning in Python." Journal of Machine Learning Research, vol. 12, 2011, pp. 2825-2830.
-12. Harris, C.R., et al. "Array Programming with NumPy." Nature, vol. 585, 2020, pp. 357–362.
-13. McKinney, Wes. "Data Structures for Statistical Computing in Python." Proceedings of the 9th Python in Science Conference, 2010.
+1. MobileNetV2: Inverted Residuals and Linear Bottlenecks, Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, 2018.
+2. TensorFlow: An open-source platform for machine learning, https://www.tensorflow.org/
+3. OpenCV: Open Source Computer Vision Library, https://opencv.org/
+4. NumPy: The fundamental package for scientific computing with Python, https://numpy.org/
+5. ChatGPT OpenAi
+6. https://www.section.io/engineering-education/building-a-multiclass-image-classifier-using-mobilenet-v2-and-tensorflow/
+7. https://medium.com/@nutanbhogendrasharma/image-classification-model-mobilenet-v2-from-tensorflow-hub-8191b28a202a
+8. "The OpenCV Library", Gary Bradski, Dr. Adrian Kaehler, 2018. [Link](https://www.mendeley.com/catalogue/the-opencv-library/)
+9. "NumPy: A Guide to NumPy", Travis E. Oliphant, 2006. [Link](https://numpy.org/doc/stable/user/)
+10. "MobileNetV2: Inverted Residuals and Linear Bottlenecks", TensorFlow Hub, 2020. [Link](https://tfhub.dev/s?module-type=image-classification)
+11. "Image Classification with Transfer Learning using MobileNetV2", TensorFlow Tutorial. [Link](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
-
