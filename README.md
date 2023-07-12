@@ -36,15 +36,19 @@ Follow the steps below to run the application:
 
 ## References:
 
-1 Dataset: https://huggingface.co/datasets/dair-ai/emotion
-2 https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
-3 ChatGpt OpenAi
-3 Streamlit, "Streamlit: The Fastest Way to Build and Share Data Apps," 2023. [Online]. Available: https://streamlit.io/.
-4 TensorFlow, "TensorFlow: An open-source platform for machine learning," 2023. [Online]. Available: https://www.tensorflow.org/.
-5 OpenCV, "OpenCV: Open Source Computer Vision Library," 2023. [Online]. Available: https://opencv.org/.
-6 Pillow, "Pillow: The friendly PIL fork," 2023. [Online]. Available: https://python-pillow.org/.
-7 NumPy, "NumPy: The fundamental package for scientific computing with Python," 2023. [Online]. Available: https://numpy.org/.
-8 Matplotlib, "Matplotlib: Visualization with Python," 2023. [Online]. Available: https://matplotlib.org/
+1. Dataset: https://huggingface.co/datasets/dair-ai/emotion
+2. https://thecleverprogrammer.com/2021/02/19/text-emotions-detection-with-machine-learning/
+3. ChatGpt OpenAi
+4. Streamlit, "Streamlit: The Fastest Way to Build and Share Data Apps," 2023. [Online]. Available: https://streamlit.io/.
+5. TensorFlow, "TensorFlow: An open-source platform for machine learning," 2023. [Online]. Available: https://www.tensorflow.org/.
+6. OpenCV, "OpenCV: Open Source Computer Vision Library," 2023. [Online]. Available: https://opencv.org/.
+7. Pillow, "Pillow: The friendly PIL fork," 2023. [Online]. Available: https://python-pillow.org/.
+8. NumPy, "NumPy: The fundamental package for scientific computing with Python," 2023. [Online]. Available: https://numpy.org/.
+9. Matplotlib, "Matplotlib: Visualization with Python," 2023. [Online]. Available: https://matplotlib.org/
+10. Bird, Steven, Ewan Klein, and Edward Loper. Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit. "O'Reilly Media, Inc.", 2009.
+11. Pedregosa, F., et al. "Scikit-learn: Machine Learning in Python." Journal of Machine Learning Research, vol. 12, 2011, pp. 2825-2830.
+12. Harris, C.R., et al. "Array Programming with NumPy." Nature, vol. 585, 2020, pp. 357–362.
+13. McKinney, Wes. "Data Structures for Statistical Computing in Python." Proceedings of the 9th Python in Science Conference, 2010.
 
 
 ## License
